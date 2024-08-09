@@ -1,7 +1,7 @@
 '''我的主页'''
 import streamlit as st
 
-st.image("logo.png")
+st.image("logo.jpg")
 st.write('-----------------------------------------------')
 st.text('''
 这里是状元郎的根据地。由庄园朗创建。
